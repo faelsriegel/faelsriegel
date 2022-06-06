@@ -1,17 +1,16 @@
-### <h1>✨ Hi there, I am Rafael Stuepp Riegel 👋<h1>
-
+# <h1>✨ Hi there, I am Rafael Stuepp Riegel <h1>
 - 🔭 I’m currently working on Datastream Sistemas
 - 💻 I’m currently learning Computer Engineering
 - 📫 How to reach me: rafaelsriegel@gmail.com
 - 🎮 Gamertag: StueppRiegel
 - 🏀 L.A Clippers
-
+<br>
 <div>
   <a href="https://beacons.ai/faelsriegel">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=faelsriegel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=faelsriegel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <br>
     <br>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelsriegel&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelsriegel&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
