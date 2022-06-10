@@ -7,7 +7,7 @@
 <br>
 <div>
   <a href="https://beacons.ai/faelsriegel">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=faelsriegel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=faelsriegel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <br>
     <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelsriegel&layout=compact&langs_count=16&theme=dark"/>
@@ -31,5 +31,3 @@
   <a href = "mailto:rafaelsriegel@mail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-stuepp-riegel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
