@@ -1,4 +1,4 @@
-# <h1>✨ Hi there, I am Rafael Stuepp Riegel <h1>
+# <h1> Hi there, I am Rafael Stuepp Riegel <h1>
 - 🔭 I’m currently working on Datastream Sistemas
 - 💻 I’m currently learning Computer Engineering
 - 📫 How to reach me: rafaelsriegel@gmail.com
