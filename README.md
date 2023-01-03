@@ -25,8 +25,7 @@
   <img align="center" alt="Rafa-Ardu" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />      
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="45a4badd-d427-47fc-a029-bcc1ba377171" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-   
+
 ##
   
 <div>
