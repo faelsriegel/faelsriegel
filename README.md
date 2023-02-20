@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rafael Stuepp Riegel</h1>
-<h3 align="center">Computer Engineering (8/10)</h3>
+<h1>Hi 👋, I'm Rafael Stuepp Riegel</h1>
+<h3>Computer Engineering (8/10)</h3>
 
 - 🔭 I’m currently working on **DevOps**
 - 💻 I’m currently learning **Computer Engineering**
 - 📫 How to reach me: **rafaelsriegel@gmail.com**
 - 🎮 Gamertag: StueppRiegel
 - 🏀 L.A Clippers
-
+<br>
 <div>
   <a href="https://beacons.ai/faelsriegel">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=faelsriegel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
