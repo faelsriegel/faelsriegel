@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rafael Stuepp Riegel</h1>
-<h3>Computer Engineering (9/10)</h3>
+<h3>Computer Engineering (98%)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faelsriegel&label=Profile%20views&color=0e75b6&style=flat" alt="faelsriegel" /> </p>
 
