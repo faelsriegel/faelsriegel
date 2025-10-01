@@ -1,4 +1,4 @@
-# Rafael Stuepp Riegel | DevOps Engineer & SRE Specialist
+# Rafael Stuepp Riegel
 
 <div align="center">
   <a href="README-pt.md">
