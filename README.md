@@ -1,4 +1,4 @@
-# Rafael Stuepp Riegel — Compute Engineer | Data Protection Officer | Cybersecurity | DevOps | Front-End Developer
+# Rafael Stuepp Riegel — Compute Engineer | Data Protection Officer | Cybersecurity | DevOps | Front-End Developer | SaaS Enthusiast
 
 <div align="center">
 	<table>
