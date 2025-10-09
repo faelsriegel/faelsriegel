@@ -1,4 +1,4 @@
-# 🍏 Rafael Stuepp Riegel — Product Engineer & Creative Technologist
+# Rafael Stuepp Riegel — Compute Engineer | Data Protection Officer | Cybersecurity | DevOps | Front-End Developer
 
 <div align="center">
 	<table>
