@@ -37,7 +37,7 @@ Este repositório reúne meu **portfólio profissional**, experiências técnica
 ## • Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,tailwind,nextjs,react,nodejs,postgres,prisma,docker,linux,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=typescript,tailwind,react,nodejs,nextjs,vercel,postgres,mariadb,prisma,docker,linux,github,git" />
 </p>
 
 <p align="center">
