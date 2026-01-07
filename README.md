@@ -10,12 +10,11 @@
 </p>
 
 <p align="center">
-  🌐 **Website Principal:**  
   <a href="https://www.srcompanytechsolutions.com/" target="_blank"><strong>srcompanytechsolutions.com</strong></a>
 </p>
 
 <p align="center">
-  <a href="public/cv/CV_Rafael_Stuepp_Riegel.pdf"><strong>📄 Currículo</strong></a> •
+  <a href="public/cv/CV_Rafael_Stuepp_Riegel.pdf"><strong>Currículo</strong></a> •
   <a href="https://www.linkedin.com/in/rafael-stuepp-riegel/"><strong>LinkedIn</strong></a> •
   <a href="https://github.com/faelsriegel"><strong>GitHub</strong></a> •
   <a href="https://replit.com/@faelsriegel"><strong>Replit</strong></a> •
@@ -24,24 +23,15 @@
 
 ---
 
-## 🌐 Destaque — SR Company Tech Solutions
+## • Sobre
 
-📍 **Seu principal projeto online:**  
-👉 <a href="https://www.srcompanytechsolutions.com/" target="_blank">https://www.srcompanytechsolutions.com/</a>
+Sou **Engenheiro de Computação**, atuando com **desenvolvimento web moderno**, **automação**, **segurança da informação** e **adequação à LGPD**, incluindo atuação como **DPO**.
 
-Este é o **seu website profissional** de serviços em tecnologia, soluções web, automações, consultoria em segurança da informação e adequação à LGPD — o centro da sua presença digital.
-
----
-
-## 👨‍💻 Sobre
-
-Sou **Engenheiro de Computação**, atuando com **desenvolvimento web moderno**, **segurança da informação**, **consultoria técnica** e **adequação regulatória (LGPD)**, incluindo atuação como **DPO**.
-
-Este repositório apresenta meu **portfólio profissional**, com projetos reais, experiências e soluções técnicas aplicadas.
+Este repositório reúne meu **portfólio profissional**, experiências técnicas, projetos acadêmicos e soluções aplicadas ao mercado.
 
 ---
 
-## 🚀 Stack & Tecnologias
+## • Stack & Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,postgres,prisma,docker,linux,git,github,vercel" />
@@ -56,33 +46,33 @@ Este repositório apresenta meu **portfólio profissional**, com projetos reais,
 
 ---
 
-## 🧩 Serviços
+## • Serviços
 
-- 🌐 **Desenvolvimento Web Full-Stack**
-- 🔐 **Segurança da Informação & LGPD**
-- 🛡️ **Atuação como DPO**
-- ⚙️ **Automação de Processos**
-- 📊 **Sistemas Analíticos**
-- 📈 **Consultoria Técnica e Estratégica**
-- 🔗 **Soluções Corporativas (SR Company Tech Solutions)**
+- Desenvolvimento Web Full-Stack
+- Segurança da Informação & LGPD
+- Atuação como DPO
+- Automação de Processos
+- Sistemas Analíticos
+- Consultoria Técnica e Estratégica
 
 ---
 
-## 📂 Portfólio
+## • Portfólio
 
-### 🔷 Full-Stack
+### Full-Stack
 
 | Projeto | Descrição |
 |--------|-----------|
 | **[SAPU](https://sapu.eco.br)** | Sistema Analítico de Progressão Universitária |
 | **[Safeguard](https://dpohub.vercel.app)** | Gestão e adequação à LGPD |
-| **[ZenBookee](https://zenbookee.com.br)** | Ferramentas para contadores |
-| **[Controlador MIDI](https://midiview.vercel.app)** | Projeto acadêmico |
+| **[ZenBookee](https://zenbookee.com.br)** | Ferramentas e automações para contadores |
+| **[Controlador MIDI](https://midiview.vercel.app)** | Projeto acadêmico com app web |
 | **[Sr. Coruja](https://srcoruja.vercel.app)** | Monitoramento de preços |
-| **[Sr. Tabs](https://srtabs.vercel.app)** | Plataforma musical |
+| **[Sr. Tabs](https://srtabs.vercel.app)** | Plataforma musical interativa |
+
 ---
 
-### 🎯 Landing Pages
+### Landing Pages
 
 - **[Eletricista Rudnik](https://eletricistarudnik.crnet.com.br)**
 - **[Margarida de Quadra](https://margaridadequadra.vercel.app)**
@@ -91,15 +81,21 @@ Este repositório apresenta meu **portfólio profissional**, com projetos reais,
 
 ---
 
-## 🎓 Formação
+## • Formação
 
 - **Bacharelado em Engenharia de Computação** — Instituto Federal Catarinense (IFC)  
-  📍 Presencial • ⏱️ 5 anos • 🌗 Integral
+  Presencial • 5 anos • Integral (tarde e noite)
 
 ---
 
-## 📜 Certificações
+## • Certificações
 
-- **Formação DPO EXIN**  
-  - Essentials • Foundation • Professional • Practitioner
-- **Membro APDADOS** — Comitê Público
+- Formação **DPO EXIN**
+  - Essentials  
+  - Foundation  
+  - Professional  
+  - Practitioner  
+
+- Membro **APDADOS** — Comitê Público
+
+---
