@@ -1,220 +1,238 @@
-# Rafael Stuepp Riegel — Compute Engineer | Data Protection Officer | Cybersecurity | DevOps | Front-End Developer | SaaS Enthusiast
+<p align="center">
+    <img src="public/images/avatar.jpeg" alt="Rafael Stuepp Riegel" width="140" />
+</p>
 
-<div align="center">
-	<table>
-		<tr>
-			<td>
-				<div align="left">
-					<img src="https://placehold.co/880x320/1c1c1e/f5f5f7?text=Hello%2C+I%27m+Rafael" alt="Hero banner placeholder" />
-					<p>
-						<strong>Designing human‑first experiences with a macOS-inspired aesthetic.</strong><br/>
-						Bridging code, product strategy, and visual storytelling to craft delightful digital journeys.
-					</p>
-					<p>
-						<a href="#projects"><img src="https://img.shields.io/badge/See%20my%20work-111827?style=for-the-badge&logo=apple&logoColor=f5f5f7" alt="See my work badge" /></a>
-						<a href="#contact"><img src="https://img.shields.io/badge/Let%E2%80%99s%20Connect-0d9488?style=for-the-badge" alt="Let's connect badge" /></a>
-						<a href="https://placehold.co/" target="_blank"><img src="https://img.shields.io/badge/Download%20Portfolio-6366f1?style=for-the-badge&logo=icloud&logoColor=f5f5f7" alt="Download portfolio badge" /></a>
-					</p>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
+<h1 align="center">Rafael Stuepp Riegel</h1>
 
----
+<p align="center">
+    Engenheiro de Computação • Desenvolvimento Web • Segurança da Informação (DPO)
+</p>
 
-## 🧭 Navegação rápida
+<p align="center">
+    <a href="#sobre">Sobre</a> •
+    <a href="#portfolio">Portfólio</a> •
+    <a href="#formacao">Formação</a> •
+    <a href="#certificacoes">Certificações</a> •
+    <a href="#como-executar">Como executar</a>
+</p>
 
-- [Sobre](#sobre)
-- [Em foco](#em-foco)
-- [Projetos principais](#projects)
-- [Toolbox](#toolbox)
-- [Linha do tempo](#linha-do-tempo)
-- [Insights & métricas](#insights--métricas)
-- [Contato](#contact)
+<p align="center">
+    <a href="#deploy">Website</a> •
+    <a href="public/cv/CV_Rafael_Stuepp_Riegel.pdf">Currículo (PDF)</a> •
+    <a href="https://www.linkedin.com/in/rafael-stuepp-riegel/">LinkedIn</a> •
+    <a href="https://github.com/faelsriegel">GitHub</a> •
+    <a href="https://replit.com/@faelsriegel?tab=repls">Replit</a> •
+    <a href="https://cnpj.biz/57130014000147">Empresa</a>
+</p>
 
----
+<p align="center">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" />
+    <img alt="React" src="https://img.shields.io/badge/React-19-blue?logo=react" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-blue?logo=typescript" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-4-38B2AC?logo=tailwind-css" />
+</p>
 
-## 🎨 Sobre
+<a id="sobre"></a>
 
-> Placeholder — escreva aqui um parágrafo marcante que resuma sua missão, estilo de trabalho e impacto desejado. Fale sobre o tipo de experiência que você cria e o motivo pelo qual seus projetos se destacam.
+## Sobre
 
-- � <strong>Mindset</strong>: produto orientado a outcomes, com obsessão por microinterações.
-- 🧭 <strong>Foco atual</strong>: liderar experiências digitais premium com estética macOS.
-- 🧪 <strong>Experimentos</strong>: integrações de IA generativa com fluxos de onboarding.
-- 🌱 <strong>Aprendizado contínuo</strong>: UI motion design, animações suaves e realistas.
+Este repositório contém meu portfólio/currículo, com foco em apresentar experiências, habilidades técnicas, formação e projetos.
 
----
+## Seções
 
-## 🌟 Em foco
+- **Serviços** (Soluções em Tecnologia, Segurança da Informação, Criação de Websites)
+- **Portfólio** (Full-Stack e Landing Pages)
+- **Formação** (Bacharelado em Engenharia de Computação — IFC)
+- **Certificações** (DPO EXIN e módulos)
+- **Skills** (stack e ferramentas)
 
-<div align="center">
-	<table>
-		<tr>
-			<td width="33.33%">
-				<div align="left">
-					<img src="https://placehold.co/420x260/f5f5f7/111827?text=Feature+Launch" alt="Feature launch placeholder" />
-					<h4>Launch em destaque</h4>
-					<p><em>Placeholder</em> — destaque uma entrega recente, métricas de sucesso e a experiência criada.</p>
-				</div>
-			</td>
-			<td width="33.33%">
-				<div align="left">
-					<img src="https://placehold.co/420x260/f5f5f7/111827?text=Case+Study" alt="Case study placeholder" />
-					<h4>Case Study premium</h4>
-					<p><em>Placeholder</em> — descreva brevemente uma jornada completa (problema → hipótese → resultado).</p>
-				</div>
-			</td>
-			<td width="33.33%">
-				<div align="left">
-					<img src="https://placehold.co/420x260/f5f5f7/111827?text=Prototype" alt="Prototype placeholder" />
-					<h4>Prototype em destaque</h4>
-					<p><em>Placeholder</em> — comente sobre um protótipo interativo com interações suaves estilo macOS.</p>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
+<a id="portfolio"></a>
 
----
+## Portfólio
 
-## �🚀 Projetos principais {#projects}
-
-<div align="center">
-	<table>
-		<tr>
-			<td>
-				<img src="https://placehold.co/960x540/1c1c1e/f5f5f7?text=Case+Study+%231" alt="Imagem placeholder do projeto 1" />
-				<h3>Projeto 01 — Nome do Produto</h3>
-				<p>
-					<em>Placeholder</em> — descreva o desafio, o público, a solução elegante e o impacto mensurável.
-				</p>
-				<p>
-					<a href="https://placehold.co/"><img src="https://img.shields.io/badge/Ler%20o%20case-0f172a?style=for-the-badge" alt="Ler o case" /></a>
-					<a href="https://placehold.co/"><img src="https://img.shields.io/badge/Protótipo%20Figma-312e81?style=for-the-badge&logo=figma" alt="Protótipo Figma" /></a>
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://placehold.co/960x540/1c1c1e/f5f5f7?text=Case+Study+%232" alt="Imagem placeholder do projeto 2" />
-				<h3>Projeto 02 — Interface Mac-like</h3>
-				<p>
-					<em>Placeholder</em> — destaque componentes moduláveis, modo escuro nativo e microinterações.
-				</p>
-				<p>
-					<a href="https://placehold.co/"><img src="https://img.shields.io/badge/Demo%20ao%20vivo-15803d?style=for-the-badge" alt="Demo ao vivo" /></a>
-					<a href="https://placehold.co/"><img src="https://img.shields.io/badge/Código%20fonte-1f2937?style=for-the-badge&logo=github" alt="Código fonte" /></a>
-				</p>
-			</td>
-		</tr>
-	</table>
-</div>
-
----
-
-## 🧰 Toolbox {#toolbox}
+### Full-Stack
 
 <table>
-	<tr>
-		<td width="33%">
-			<h4>Design Systems & UI</h4>
-			<ul>
-				<li>Figma (Auto Layout, Variants, Tokens)</li>
-				<li>Framer Motion & Princípio de animação</li>
-				<li>MacOS Human Interface Guidelines</li>
-				<li>Design tokens multicamada</li>
-			</ul>
-		</td>
-		<td width="33%">
-			<h4>Engineering</h4>
-			<ul>
-				<li>React, Next.js, Typescript</li>
-				<li>Tailwind, Radix UI, Styled Components</li>
-				<li>Node.js, Edge Functions, GraphQL</li>
-				<li>CI/CD, Storybook, Tests (Jest/Cypress)</li>
-			</ul>
-		</td>
-		<td width="33%">
-			<h4>Product & Growth</h4>
-			<ul>
-				<li>Product Discovery & Jobs To Be Done</li>
-				<li>Design Sprints & Roadmapping</li>
-				<li>Analytics (Mixpanel, GA4, Hotjar)</li>
-				<li>OKRs, North Star Metric, funnels</li>
-			</ul>
-		</td>
-	</tr>
+    <tr>
+        <td width="33%">
+            <a href="https://sapu.eco.br">
+                <img src="public/images/projects/projeto4.png" alt="SAPU" width="100%" />
+            </a>
+            <br />
+            <b>SAPU</b>
+            <br />
+            Sistema Analítico de Progressão Universitária
+        </td>
+        <td width="33%">
+            <a href="https://dpohub.vercel.app">
+                <img src="public/images/projects/projeto10.png" alt="Safeguard" width="100%" />
+            </a>
+            <br />
+            <b>Safeguard</b>
+            <br />
+            Gestão & adequação à LGPD
+        </td>
+        <td width="33%">
+            <a href="https://zenbookee.com.br">
+                <img src="public/images/projects/projeto1.png" alt="ZenBookee" width="100%" />
+            </a>
+            <br />
+            <b>ZenBookee</b>
+            <br />
+            Ferramentas e automações para contadores
+        </td>
+    </tr>
+    <tr>
+        <td width="33%">
+            <a href="https://midiview.vercel.app">
+                <img src="public/images/projects/projeto11.png" alt="Controlador MIDI" width="100%" />
+            </a>
+            <br />
+            <b>Controlador MIDI (DTA)</b>
+            <br />
+            Projeto acadêmico com app web
+        </td>
+        <td width="33%">
+            <a href="https://srcoruja.vercel.app">
+                <img src="public/images/projects/srcoruja.png" alt="Sr. Coruja" width="100%" />
+            </a>
+            <br />
+            <b>Sr. Coruja</b>
+            <br />
+            Monitoramento de preços com alertas
+        </td>
+        <td width="33%">
+            <a href="https://srtabs.vercel.app">
+                <img src="public/images/projects/tabs.png" alt="Sr. Tabs" width="100%" />
+            </a>
+            <br />
+            <b>Sr. Tabs</b>
+            <br />
+            Plataforma musical interativa
+        </td>
+    </tr>
 </table>
 
----
-
-## 🕰️ Linha do tempo
+### Landing Pages
 
 <table>
-	<tr>
-		<td width="30%"><strong>2025 · Atual</strong></td>
-		<td>
-			<em>Placeholder — Cargo atual</em><br/>
-			Impacto resumido, liderança de squads multidisciplinares e evolução contínua da estética macOS.
-		</td>
-	</tr>
-	<tr>
-		<td><strong>2023 — 2024</strong></td>
-		<td>
-			<em>Placeholder — Produto anterior</em><br/>
-			Destaque um resultado mensurável, como crescimento de NPS ou adoção de features premium.
-		</td>
-	</tr>
-	<tr>
-		<td><strong>2021 — 2022</strong></td>
-		<td>
-			<em>Placeholder — Experiência-chave</em><br/>
-			Fale sobre a criação de um design system escalável e alinhamento com guidelines macOS.
-		</td>
-	</tr>
+    <tr>
+        <td width="33%">
+            <a href="https://eletricistarudnik.crnet.com.br">
+                <img src="public/images/projects/projeto7.png" alt="Eletricista Rudnik" width="100%" />
+            </a>
+            <br />
+            <b>Eletricista Rudnik</b>
+        </td>
+        <td width="33%">
+            <a href="https://margaridadequadra.vercel.app">
+                <img src="public/images/projects/projeto5.png" alt="Margarida de Quadra" width="100%" />
+            </a>
+            <br />
+            <b>Margarida de Quadra</b>
+        </td>
+        <td width="33%">
+            <a href="https://portfoliosites.crnet.com.br">
+                <img src="public/images/projects/projeto8.png" alt="Portfólio de Sites" width="100%" />
+            </a>
+            <br />
+            <b>Divulgador de Projetos</b>
+        </td>
+    </tr>
+    <tr>
+        <td width="33%">
+            <a href="https://web-site-bootstrap.vercel.app">
+                <img src="public/images/projects/projeto3.png" alt="Website com Bootstrap" width="100%" />
+            </a>
+            <br />
+            <b>Website com Bootstrap</b>
+        </td>
+        <td width="33%">
+            <img src="public/images/projects/placeholder.svg" alt="Em breve" width="100%" />
+            <br />
+            <b>Em breve</b>
+        </td>
+        <td width="33%">
+            <img src="public/images/projects/placeholder.svg" alt="Em planejamento" width="100%" />
+            <br />
+            <b>Planejado</b>
+        </td>
+    </tr>
 </table>
 
+<a id="formacao"></a>
+
+## Formação
+
+- **Bacharelado em Engenharia de Computação** — Instituto Federal Catarinense (IFC)
+- **Duração**: 5 anos • **Turno**: Integral (tarde e noite) • **Modalidade**: Presencial
+
+<a id="certificacoes"></a>
+
+## Certificações
+
+- **Formação DPO EXIN** (módulos Essentials, Foundation, Professional e Practitioner)
+- **Membro APDADOS** — Comitê Público
+
+<a id="deploy"></a>
+
+## Deploy
+
+- Adicione aqui o link do deploy (Vercel) quando estiver disponível.
+
+## Stack Tecnológica
+
+- **Framework**: Next.js 15 (App Router)
+- **UI Library**: React 19
+- **Linguagem**: TypeScript
+- **Estilização**: Tailwind CSS 4
+- **Animações**: Framer Motion
+- **Ícones**: Lucide React
+- **Tema**: next-themes
+
+## Estrutura do Projeto
+
+```
+src/
+├── app/
+│   ├── layout.tsx      # Layout raiz com providers
+│   ├── page.tsx        # Página inicial
+│   └── globals.css     # Estilos globais
+├── components/
+│   ├── ui/             # Componentes reutilizáveis
+│   ├── sections/       # Seções da página
+│   ├── layout/         # Header, Footer
+│   └── providers/      # Providers (Theme)
+└── lib/
+    ├── utils.ts        # Utilitários
+    └── data.ts         # Dados do portfolio
+```
+
+## Como Executar
+
+```bash
+# Instalar dependências
+npm install
+
+# Iniciar servidor de desenvolvimento
+npm run dev
+```
+
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
+
+## Scripts Disponíveis
+
+| Comando | Descrição |
+|---------|-----------|
+| `npm run dev` | Inicia o servidor de desenvolvimento |
+| `npm run build` | Cria o build de produção |
+| `npm run start` | Executa o build de produção |
+| `npm run lint` | Verifica o código com ESLint |
+
+## Personalização
+
+Edite o arquivo `src/lib/data.ts` para personalizar suas informações, skills, experiências e projetos.
+
 ---
 
-## 📊 Insights & métricas
-
-<div align="center">
-	<img src="https://placehold.co/1024x320/f5f5f7/1c1c1e?text=Métricas+de+impacto" alt="Gráfico placeholder de métricas" />
-	<p>
-		<em>Placeholder</em> — inclua gráficos reais no futuro: retenção, crescimento de usuários premium, redução de churn, etc.
-	</p>
-	<img src="https://github-readme-stats.vercel.app/api?username=placeholder&show_icons=true&hide_border=true&bg_color=1c1c1e&title_color=f5f5f7&text_color=d1d5db&icon_color=0ea5e9" alt="GitHub stats placeholder" />
-</div>
-
----
-
-## 🗣️ Depoimentos rápidos
-
-> "Placeholder — visão de um stakeholder sobre seu cuidado com detalhes, obsessão por UX e estilo macOS."<br/>
-> <strong>Nome do Stakeholder · Empresa</strong>
-
----
-
-## 🤝 Vamos colaborar {#contact}
-
-<div align="center">
-	<img src="https://placehold.co/780x220/111827/f5f5f7?text=Vamos+construir+algo+incrível" alt="Banner de call to action" width="100%" />
-	<p>📬 <em>Placeholder</em> — adicione seu e-mail, agenda ou CTA preferido.</p>
-	<p>
-		<a href="mailto:placeholder@email.com"><img src="https://img.shields.io/badge/E--mail-0f172a?style=for-the-badge&logo=minutemailer&logoColor=f5f5f7" alt="E-mail" /></a>
-		<a href="https://www.linkedin.com/in/placeholder" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-		<a href="https://dribbble.com/placeholder" target="_blank"><img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=f5f5f7" alt="Dribbble" /></a>
-		<a href="https://behance.net/placeholder" target="_blank"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance" alt="Behance" /></a>
-	</p>
-</div>
-
----
-
-### 🧩 Próximos passos sugeridos
-
-- Substitua os textos <em>placeholder</em> por narrativas autênticas.
-- Troque as imagens de `placehold.co` por capturas e mockups reais.
-- Adicione links para protótipos, repositórios e apresentações.
-- Considere incorporar GIFs leves demonstrando microinterações.
-
+Desenvolvido por Rafael Stuepp Riegel
