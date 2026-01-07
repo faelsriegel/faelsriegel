@@ -37,14 +37,14 @@ Este repositório reúne meu **portfólio profissional**, experiências técnica
 ## • Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,nodejs,postgres,prisma,docker,linux,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=typescript,tailwind,nextjs,react,nodejs,postgres,prisma,docker,linux,git,github,vercel" />
 </p>
 
 <p align="center">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" />
-  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-15-black?logo=next.js" />
+  <img alt="React" src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
 </p>
 
 ---
