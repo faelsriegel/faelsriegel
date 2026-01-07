@@ -1,3 +1,4 @@
+<h1 align="center">Rafael Stuepp Riegel</h1>
 <p align="center">
   <img 
     src="https://media.licdn.com/dms/image/v2/D4D03AQHD0Y8AL5G24A/profile-displayphoto-shrink_400_400/B4DZcTQrm6GwAg-/0/1748374830268?e=1769644800&v=beta&t=k-0TVSYhgNP3zSstJYumn2ABUG0pgCQ4xhiV7O26UQU"
@@ -6,10 +7,6 @@
     height="120"
   />
 </p>
-
-
-<h1 align="center">Rafael Stuepp Riegel</h1>
-
 <p align="center">
   <strong>Engenheiro de Computação</strong><br/>
   Desenvolvimento Web • Segurança da Informação • DPO
