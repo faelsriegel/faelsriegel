@@ -3,7 +3,7 @@
     src="https://media.licdn.com/dms/image/v2/D4D03AQHD0Y8AL5G24A/profile-displayphoto-shrink_400_400/B4DZcTQrm6GwAg-/0/1748374830268?e=1769644800&v=beta&t=k-0TVSYhgNP3zSstJYumn2ABUG0pgCQ4xhiV7O26UQU"
     alt="Rafael Stuepp Riegel"
     width="120"
-    style="border-radius:50%; border:3px solid #3b82f6;"
+    style="border-radius:50%; border:3px solid #e5e7eb; box-shadow:0 4px 10px rgba(0,0,0,0.15);"
   />
 </p>
 
