@@ -86,7 +86,7 @@ Este repositório reúne meu **portfólio profissional**, experiências técnica
 | **[ZenBookee](https://zenbookee.com.br)** | Ferramentas e automações para contadores |
 | **[Controlador MIDI](https://midiview.vercel.app)** | Projeto acadêmico com app web |
 | **[Sr. Coruja](https://srcoruja.vercel.app)** | Monitoramento de preços |
-| **[Sr. Tabs](https://srtabs.vercel.app)** | Plataforma musical interativa |
+| **[Tabs](https://srtabs.vercel.app)** | Plataforma musical interativa |
 
 ---
 
